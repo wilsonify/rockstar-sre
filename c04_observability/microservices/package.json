@@ -1,17 +1,9 @@
 {
   "name": "rod-anami-service",
+  "bin": "server.js",
   "version": "0.1.1",
   "description": "Microservices dummy node.js app",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "node",
-    "javascript",
-    "microservices"
-  ],
-  "author": "Rod Anami <rod.anami@kyndryl.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.0",
